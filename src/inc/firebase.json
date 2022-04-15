@@ -1,0 +1,11 @@
+{
+    "config":{
+        "apiKey": "AIzaSyDAIo8NQUgYA1-03lek6NUFuT91nWagkY8",
+        "authDomain": "notre-dame-live.firebaseapp.com",
+        "databaseURL": "https://notre-dame-live-default-rtdb.firebaseio.com",
+        "projectId": "notre-dame-live",
+        "storageBucket": "notre-dame-live.appspot.com",
+        "messagingSenderId": "888438134824",
+        "appId": "1:888438134824:web:44b38734e2efba74d5fd1d"
+    }
+}

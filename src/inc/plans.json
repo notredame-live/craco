@@ -1,0 +1,12 @@
+{
+    "currency":"usd",
+    "features": [
+        "feature 1",
+        "feature 2",
+        "feature 3"
+    ],
+    "name":"One Dollar"
+    "paymentCycle":"mo"
+    "price":89.99
+    stripePriceId: "price_..."
+}
